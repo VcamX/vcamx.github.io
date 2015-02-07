@@ -1,7 +1,5 @@
 ---
 layout: page
 title: About
+hascomments: true
 ---
-
-
-{% include comments.html %}
