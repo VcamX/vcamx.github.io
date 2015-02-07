@@ -1,0 +1,29 @@
+# Dependencies
+markdown:           redcarpet
+highlighter:        pygments
+
+# Permalinks
+permalink:          pretty
+relative_permalinks: true
+
+# Setup
+title:              VcamX
+description:        'Jiarong Wei'
+url:                http://vcamx.net
+baseurl:            /
+
+author:
+  name:             VcamX
+  email:            vcamx3@gmail.com
+
+social:
+  facebook:         jiarong.wei
+  googleplus:       JiarongWei
+  _linkedin:        jiarongwei
+  twitter:          VcamX
+  weibo:            VcamX
+  github:           VcamX
+
+paginate:           5
+
+excerpt_separator:  <!--more-->

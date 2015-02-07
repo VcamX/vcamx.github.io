@@ -1,0 +1,39 @@
+<section class="social-media">
+
+    {% if site.social.facebook %}
+    <a title="{{ site.social.facebook }} on Facebook" 
+        href="https://facebook.com/{{ site.social.facebook }}" 
+        class="social-media-icon facebook-icon" target="_blank"></a>
+    {% endif %}
+
+    {% if site.social.googleplus %}
+    <a title="{{ site.social.googleplus }} on Google Plus" 
+        href="https://plus.google.com/+{{ site.social.googleplus }}" 
+        class="social-media-icon googleplus-icon" target="_blank"></a>
+    {% endif %}
+
+    {% if site.social.linkedin %}
+    <a title="{{ site.social.linkedin }} on Twitter" 
+        href="https://cn.linkedin.com/in/{{ site.social.linkedin }}" 
+        class="social-media-icon linkedin-icon" target="_blank"></a>
+    {% endif %}
+
+    {% if site.social.twitter %}
+    <a title="{{ site.social.twitter }} on Twitter" 
+        href="https://twitter.com/{{ site.social.twitter }}" 
+        class="social-media-icon twitter-icon" target="_blank"></a>
+    {% endif %}
+
+    {% if site.social.weibo %}
+    <a title="{{ site.social.weibo }} on Weibo" 
+        href="http://weibo.com/{{ site.social.weibo }}" 
+        class="social-media-icon weibo-icon" target="_blank"></a>
+    {% endif %}
+
+    {% if site.social.github %}
+    <a title="{{ site.social.github }} on GitHub" 
+        href="https://github.com/{{ site.social.github }}" 
+        class="social-media-icon github-icon" target="_blank"></a>
+    {% endif %} 
+
+</section>
