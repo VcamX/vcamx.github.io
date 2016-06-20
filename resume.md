@@ -15,11 +15,14 @@ title: Resume
 
 ### Work Experience
 
+- ###### 2016.2 - 2016.6
+Teaching Assistant of *Database System* in Zhejiang University. The instructor is Prof. [Gang Chen](http://db.zju.edu.cn/s/people_detail?id=1), Zhejiang University.
+
 - ###### 2015.5 - 2015.8
 Google Summer of Code Student, [Wikimedia Foundation](https://wikimediafoundation.org/). My project is to implement OAuth support for [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot).
 
 - ###### 2014.7 - 2014.8
-Teaching Assistant of *Introduction to Computer System* in Zhejiang University. Instructors are [Prof. Yale N. Patt](http://users.ece.utexas.edu/~patt/), University of Texas Austin and Prof. [Xiahong Jiang](http://www.cs.zju.edu.cn/people/jiangxh/), Zhejiang University.
+Teaching Assistant of *Introduction to Computer System* in Zhejiang University. The instructors are [Prof. Yale N. Patt](http://users.ece.utexas.edu/~patt/), University of Texas Austin and Prof. [Xiahong Jiang](http://www.cs.zju.edu.cn/people/jiangxh/), Zhejiang University.
 
 - ###### 2014.5 - 2014.8
 Google Summer of Code Student, [The Xapian Project](http://xapian.org/). My project is mainly focusing on refactoring the LETOR module in Xapian Library.
