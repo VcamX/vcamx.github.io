@@ -16,13 +16,13 @@ author:
   email:            vcamx3@gmail.com
 
 social:
-  facebook:         jiarong.wei
-  googleplus:       JiarongWei
-  _linkedin:        jiarongwei
+  linkedin:         jiarongwei
   twitter:          VcamX
-  weibo:            VcamX
   github:           VcamX
 
 paginate:           5
 
 excerpt_separator:  <!--more-->
+
+gems: [jekyll-paginate]
+
